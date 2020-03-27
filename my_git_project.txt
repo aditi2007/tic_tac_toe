@@ -1,0 +1,2 @@
+ my git project
+MINGW64:/C/Users/Mithun/Downloads/staticSquare-master
